@@ -1,2 +1,11 @@
+This project was created in Wordpress Backend Development.
 
-This project was bootstrapped with Create React App.
+Introduction
+
+This project is a Tech Blog that helps the students to provide a question and answer site for professional and enthusiast programmers.
+The purpose is to make articles approachable to the readers.
+
+
+https://www.webdroyd.com/wp-login.php
+Teamtanayuser
+%GvZlIkLv5qLs&NgQmuy3XYR
